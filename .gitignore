@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Database
+*.db
+*.sqlite3
+
+# Python Cache
+.pytest_cache/
+.mypy_cache/
+.coverage
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Images Generated During Processing
+data/output/
+temp/
+
+# OS
+.DS_Store
+Thumbs.db
